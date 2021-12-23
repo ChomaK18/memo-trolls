@@ -1,0 +1,17 @@
+.game-board {
+  height: 700px;
+  width: 700px;
+}
+
+.toolbar {
+  width: 700px;
+}
+
+.card {
+  height: fit-content;
+  width: fit-content;
+}
+.card > img {
+  height: 150px;
+  width: auto;
+}
